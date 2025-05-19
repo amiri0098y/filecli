@@ -9,7 +9,7 @@ setup(
     ],
     entry_points={
         "console_scripts": [
-            "filec=ftp_cli:main",
+            "filec=main:main",
         ],
     },
     author="Duck",
