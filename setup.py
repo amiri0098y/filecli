@@ -3,7 +3,7 @@ from setuptools import setup
 setup(
     name="file-cli",
     version="0.1",
-    py_modules=["ftp_cli"],
+    py_modules=["main"],
     install_requires=[
         "requests",
     ],
